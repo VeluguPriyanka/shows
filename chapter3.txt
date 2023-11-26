@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter3. beautifull days are comming soon.kjLclz
+=======
+This is chapter3. okay .
+>>>>>>> alien-plot
